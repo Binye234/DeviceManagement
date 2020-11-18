@@ -17,7 +17,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>恒利德公司漏扫设备管理系统</title>
-
+    <link rel="icon" href="../static/themes/icons/bell.png" type="image/x-icon">
     <link rel="stylesheet" href="../static/themes/dafult/easyui.css">
     <link rel="stylesheet" href="../static/themes/dafult/wu.css">
     <link rel="stylesheet" href="../static/themes/icon.css">

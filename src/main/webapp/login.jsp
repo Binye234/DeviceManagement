@@ -12,7 +12,7 @@
 <head>
 
     <title>恒利德公司漏扫设备管理系统</title>
-
+    <link rel="icon" href="static/themes/icons/bell.png" type="image/x-icon">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
