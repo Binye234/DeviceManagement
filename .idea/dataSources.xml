@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:mysql://localhost:3306/hld_wsm?characterEncoding=utf8&amp;serverTimezone=GMT%2B8 #带时区编码" uuid="0b74a9ab-2c81-467d-8dfe-1e546f9afee0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hld_wsm?characterEncoding=utf8&amp;serverTimezone=GMT%2B8 #带时区编码</jdbc-url>
+    </data-source>
+  </component>
+</project>
